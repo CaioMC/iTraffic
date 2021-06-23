@@ -1,0 +1,13 @@
+com/itraffic/entity/employee/Roles.class
+com/itraffic/entity/terminal/BusGps.class
+com/itraffic/entity/creditpurchase/TypeItemEnum.class
+com/itraffic/entity/terminal/PrvBus.class
+com/itraffic/entity/user/TypeUserEnum.class
+com/itraffic/entity/employee/Employee.class
+com/itraffic/entity/creditpurchase/CardTypeEnum.class
+com/itraffic/entity/terminal/TerminalPoint.class
+com/itraffic/entity/user/PrvUser.class
+com/itraffic/entity/creditpurchase/CreditPurchase.class
+com/itraffic/entity/employee/RoleTypeEnum.class
+com/itraffic/entity/creditpurchase/CreditPurchaseItems.class
+com/itraffic/entity/employee/OutputField.class
